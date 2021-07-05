@@ -1,2 +1,2 @@
 # Projeto-Logo-Instagram
-Recriei o logo do instagram utilizando CSS.
+Recriei o logo do Instagram utilizando CSS.
